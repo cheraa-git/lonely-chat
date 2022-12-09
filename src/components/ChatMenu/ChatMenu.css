@@ -1,0 +1,18 @@
+.menu-enter {
+    transform: scale(0.1, 0.1);
+
+}
+.menu-enter-active {
+    transform: scale(1, 1);
+    transition: transform 200ms;
+}
+
+.menu-exit {
+    opacity: 1;
+    transform: scale(1, 1);
+}
+.menu-exit-active {
+    opacity: 0;
+    transform: scale(0, 0);
+    transition: all 200ms ;
+}
