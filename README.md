@@ -1,4 +1,6 @@
 # Lonely chat
+If you are bored, you can chat with yourself. Open this application in two browser tabs and try to write to yourself
+
 This project was generated with [ReactJs](https://reactjs.org) version 18.2.0
 
 ## Run
